@@ -12,3 +12,8 @@ joblib>=1.3
 streamlit>=1.30
 pytest>=7.4
 jupyter>=1.0
+scikit-learn
+xgboost
+lightgbm
+catboost
+joblib
