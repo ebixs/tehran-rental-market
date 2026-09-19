@@ -1,4 +1,7 @@
 """Rental value estimator.  Run: streamlit run app/streamlit_app.py  (after `make train`)"""
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import sys
 from pathlib import Path
 
