@@ -1,0 +1,4 @@
+model,r2_log,mae_million_toman,median_ape_pct,within_20pct,within_30pct
+random_forest,0.902,158.8,15.8,0.603,0.784
+xgboost,0.9059,159.5,16.1,0.6,0.788
+ridge,0.8848,177.5,18.1,0.551,0.754

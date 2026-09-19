@@ -1,0 +1,37 @@
+[
+  {
+    "rule": "raw rows",
+    "removed": 0,
+    "remaining": 12383
+  },
+  {
+    "rule": "no price (deposit = 0 and rent = 0)",
+    "removed": 1536,
+    "remaining": 10847
+  },
+  {
+    "rule": "area outside 20-600 m2",
+    "removed": 14,
+    "remaining": 10833
+  },
+  {
+    "rule": "monthly rent > 300,000,000 Toman (typo)",
+    "removed": 16,
+    "remaining": 10817
+  },
+  {
+    "rule": "0 < rent < 500,000 Toman (placeholder / unit error)",
+    "removed": 166,
+    "remaining": 10651
+  },
+  {
+    "rule": "build year < 1350",
+    "removed": 0,
+    "remaining": 10651
+  },
+  {
+    "rule": "value/m2 outside 0.5%-99.5% quantiles",
+    "removed": 107,
+    "remaining": 10544
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "best_model": "random_forest",
+  "test": {
+    "r2_log": 0.9099,
+    "mae_million_toman": 147.2,
+    "median_ape_pct": 14.9,
+    "within_20pct": 0.625,
+    "within_30pct": 0.803
+  },
+  "interval_80_test_coverage": 0.81
+}

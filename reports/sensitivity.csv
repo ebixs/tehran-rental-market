@@ -1,0 +1,5 @@
+rent_to_deposit,neighborhood_rank_spearman_vs_30,r2_log,mae_million_toman,median_ape_pct,within_20pct,within_30pct
+10,0.947,0.7791,209.7,29.7,0.336,0.503
+30,1.0,0.9099,147.2,14.9,0.625,0.803
+50,0.993,0.925,163.1,12.4,0.685,0.841
+100,0.948,0.8337,386.0,24.4,0.416,0.609

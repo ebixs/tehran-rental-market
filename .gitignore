@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+# raw data and model artifacts are re-created with `make data` / `make train`
+data/raw/*.csv
+models/

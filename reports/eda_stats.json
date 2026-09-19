@@ -1,0 +1,45 @@
+{
+  "rows_raw": 12383,
+  "rows_clean": 10544,
+  "n_neighborhoods": 311,
+  "median_value_million_toman": 550.0,
+  "median_area": 110.0,
+  "full_deposit_share": 0.375,
+  "premium_raw_pct": {
+    "elevator": 79.7,
+    "parking": 99.2
+  },
+  "premium_within_neighborhood_pct": {
+    "elevator": 28.1,
+    "parking": 21.3
+  },
+  "top5": [
+    "الهیه",
+    "کامرانیه",
+    "زعفرانیه",
+    "ولنجک",
+    "فرمانیه"
+  ],
+  "bottom5": [
+    "اندیشه",
+    "شهریار",
+    "شهر قدس",
+    "پردیس",
+    "پرند"
+  ],
+  "top5_median_per_m2": [
+    8.9,
+    8.6,
+    8.3,
+    7.8,
+    7.6
+  ],
+  "bottom5_median_per_m2": [
+    1.8,
+    1.4,
+    1.2,
+    1.2,
+    1.0
+  ],
+  "top_to_bottom_ratio": 9.0
+}
