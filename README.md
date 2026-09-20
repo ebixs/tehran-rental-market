@@ -1,6 +1,11 @@
 # 🏠 Tehran Rental Market Analysis
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tehran-rental-market-wd3wkangw4qpw9sn2kuuwb.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-ebixs%2Ftehran--rental--market-blue?logo=github)](https://github.com/ebixs/tehran-rental-market)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A data-cleaning, exploratory-analysis and machine-learning project on ~12k real Tehran rental listings from Divar. It answers three practical questions:
+
 
 1. **How messy is real listing data, and how do you clean it defensibly?**
 2. **Where is Tehran expensive, and what do amenities really add once location is controlled for?**
@@ -67,7 +72,7 @@ Converting rent to deposit requires a constant (default: 1 Toman of monthly rent
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/tehran-rental-market.git
+git clone https://github.com/ebixs/tehran-rental-market.git
 cd tehran-rental-market
 python -m venv .venv && source .venv/bin/activate
 make install     # dependencies + editable install
@@ -128,6 +133,17 @@ Listings originally collected from public Divar ads and obtained from the public
 
 Add a time dimension with fresh, terms-compliant data collection; add room count and floor; geocode neighborhoods for maps; quantile-regression or conformal intervals; Dockerfile and CI.
 
+## 👤 Author
+
+**Ebrahim Salimi Bani**
+- **GitHub:** [@ebixs](https://github.com/ebixs)
+- **LinkedIn:** [Ebrahim Salimi Bani](https://www.linkedin.com/in/ebrahim-salimi-bani/)
+- **Live Demo:** [Tehran Rental Predictor](https://tehran-rental-market-wd3wkangw4qpw9sn2kuuwb.streamlit.app/)
+
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+
+---
